@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-###  <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30"> About Me :
+###  <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30"> Me:
+- A fullstack developer
 
 <!--
 **mkoner/mkoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
