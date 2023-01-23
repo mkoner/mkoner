@@ -14,6 +14,9 @@
  <img src="https://www.openxcell.com/wp-content/uploads/2021/10/springboot-inner.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
  <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png?w=128&f=avif" title="Node Js" alt="Node Js" width="80" height="80"/>&nbsp;
  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/react-js-5379349-4492471.png?w=128&f=avif" title="React Js" alt="React Js" width="80" height="80"/>&nbsp;
+ <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?w=128&f=avif" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+ 
+ 
  
  
  </div>
