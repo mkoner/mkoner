@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###  About me <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30"> :
+###  About me <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30" align="center"> :
 - A fullstack developer
 
 <!--
