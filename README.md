@@ -3,6 +3,7 @@
 ###  About me <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30" align="center"> :
 - A fullstack developer <img src="https://cdn-icons-png.flaticon.com/512/3242/3242244.png" width="30" align="center">
 - From Abidjan Côte d'Ivoire <img src="https://cdn-icons-png.flaticon.com/512/323/323276.png" width="30" align="center">
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center">
 
 <!--
 **mkoner/mkoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
