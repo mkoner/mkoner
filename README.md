@@ -4,6 +4,7 @@
 - A fullstack developer <img src="https://cdn-icons-png.flaticon.com/512/3242/3242244.png" width="30" align="center">
 - From Abidjan Côte d'Ivoire <img src="https://cdn-icons-png.flaticon.com/512/323/323276.png" width="30" align="center"> 
 -   <a href="https://www.linkedin.com/in/mamadou-kon%C3%A9-3b1694b9/" align="center" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center"></a>
+-   <a href="https://twitter.com/mkoner_/" align="center" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="30" align="center"></a>
 -   
  
 
