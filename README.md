@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me :man::
+###  <img src="https://cdn-icons-png.flaticon.com/512/64/64572.png" width="30"> About Me :
 
 <!--
 **mkoner/mkoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
