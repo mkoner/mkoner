@@ -6,7 +6,7 @@
 -   <a href="https://www.linkedin.com/in/mamadou-kon%C3%A9-3b1694b9/" align="center" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center"></a>
 -   <a href="https://twitter.com/mkoner_/" align="center" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="30" align="center"></a>
 -  <a href="mailto:amzid@hotmail.fr" align="center" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" align="center"></a> 
- 
+
 
 ### I work with:
 <div align="center">
